@@ -1,0 +1,20 @@
+---
+version: 2
+multicolumn: false
+web-width: 500px
+align: center
+float: h!
+grid:
+  rows: 1
+  columns: 1
+  grid_elements:
+  - path: figures/Cordon_Testiculaire/Cordon_Testiculaire.png
+    type: static
+    from:
+    - 1
+    - 1
+    to:
+    - 1
+    - 1
+    url: "/users/253833/articles/345687/master/file/figures/Cordon_Testiculaire/Cordon_Testiculaire.png"
+    folder_url: "/users/253833/articles/345687/master/folder/figures/Cordon_Testiculaire"
